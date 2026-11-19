@@ -104,4 +104,4 @@ For questions, collaboration inquiries, or technical discussions concerning this
 
 ---
 
-*This repository is maintained to promote transparency, traceability, and reproducibility in computer-vision-based structural damage assessment.* 
+*This repository is maintained to promote transparency, traceability, and reproducibility in computer-vision-based structural damage assessment.*
